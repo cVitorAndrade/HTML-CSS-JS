@@ -11,6 +11,7 @@ function increment() {
     }
     check();
 }
+
 function decrement() {
     if(currentNumber > -50)
     {
